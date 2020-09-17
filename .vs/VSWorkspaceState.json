@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AngularStarted",
+    "\\AngularStarted\\ClientApp",
+    "\\AngularStarted\\Pages"
   ],
+  "SelectedNode": "\\AngularStarted\\AngularStarted.csproj",
   "PreviewInSolutionExplorer": false
 }
