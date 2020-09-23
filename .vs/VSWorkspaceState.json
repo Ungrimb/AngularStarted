@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\AngularStarted",
-    "\\AngularStarted\\ClientApp",
-    "\\AngularStarted\\Pages"
+    "\\AngularStarted\\Controllers",
+    "\\AngularStarted\\Data",
+    "\\AngularStarted\\Models"
   ],
-  "SelectedNode": "\\AngularStarted\\AngularStarted.csproj",
+  "SelectedNode": "\\AngularStarted\\Startup.cs",
   "PreviewInSolutionExplorer": false
 }
